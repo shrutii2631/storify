@@ -32,6 +32,6 @@ Backend-focused Django project for managing products, customers, billing, and st
 - Prevents billing when stock is insufficient
 
 ## Setup (Local)
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+- pip install -r requirements.txt
+- python manage.py migrate
+- python manage.py runserver
